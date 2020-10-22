@@ -1,0 +1,18 @@
+.receitas {
+    border-radius: 50px;
+    box-shadow: 0px 5px 35px rgb(19, 18, 18);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    width: 50%;
+
+}
+
+.image {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
