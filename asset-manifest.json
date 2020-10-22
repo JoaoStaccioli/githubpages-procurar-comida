@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/githubpages-procurar-comida/static/css/main.b9d31ab8.chunk.css",
+    "main.js": "/githubpages-procurar-comida/static/js/main.77d1defc.chunk.js",
+    "main.js.map": "/githubpages-procurar-comida/static/js/main.77d1defc.chunk.js.map",
+    "runtime-main.js": "/githubpages-procurar-comida/static/js/runtime-main.9b668e0d.js",
+    "runtime-main.js.map": "/githubpages-procurar-comida/static/js/runtime-main.9b668e0d.js.map",
+    "static/js/2.5782c9fe.chunk.js": "/githubpages-procurar-comida/static/js/2.5782c9fe.chunk.js",
+    "static/js/2.5782c9fe.chunk.js.map": "/githubpages-procurar-comida/static/js/2.5782c9fe.chunk.js.map",
+    "index.html": "/githubpages-procurar-comida/index.html",
+    "precache-manifest.2f0665e6310eb15acf0994d09f1deca3.js": "/githubpages-procurar-comida/precache-manifest.2f0665e6310eb15acf0994d09f1deca3.js",
+    "service-worker.js": "/githubpages-procurar-comida/service-worker.js",
+    "static/css/main.b9d31ab8.chunk.css.map": "/githubpages-procurar-comida/static/css/main.b9d31ab8.chunk.css.map",
+    "static/js/2.5782c9fe.chunk.js.LICENSE.txt": "/githubpages-procurar-comida/static/js/2.5782c9fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b668e0d.js",
+    "static/js/2.5782c9fe.chunk.js",
+    "static/css/main.b9d31ab8.chunk.css",
+    "static/js/main.77d1defc.chunk.js"
+  ]
+}
