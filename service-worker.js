@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/githubpages-procurar-comida/precache-manifest.2f0665e6310eb15acf0994d09f1deca3.js"
+  "/githubpages-procurar-comida/precache-manifest.8ff337c2d6dc6fe351260dcc4a330495.js"
 );
 
 self.addEventListener('message', (event) => {

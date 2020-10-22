@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "533e4a654e8b19ec9e2a0f7764ac049b",
+    "revision": "cc38b18cd78e45ee9d096be2f6e3d559",
     "url": "/githubpages-procurar-comida/index.html"
   },
   {
-    "revision": "03d7d5790926a45f1517",
-    "url": "/githubpages-procurar-comida/static/css/main.b9d31ab8.chunk.css"
+    "revision": "b920a1108d81dd7ad411",
+    "url": "/githubpages-procurar-comida/static/css/main.49cf9656.chunk.css"
   },
   {
     "revision": "46aa843389b83ab6d33d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/githubpages-procurar-comida/static/js/2.5782c9fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03d7d5790926a45f1517",
-    "url": "/githubpages-procurar-comida/static/js/main.77d1defc.chunk.js"
+    "revision": "b920a1108d81dd7ad411",
+    "url": "/githubpages-procurar-comida/static/js/main.e180415b.chunk.js"
   },
   {
     "revision": "fbd6441e80d176923e85",
